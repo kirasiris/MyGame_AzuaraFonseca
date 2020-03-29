@@ -1,0 +1,10 @@
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.csprojAssemblyReference.cache
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.Form1.resources
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.Properties.Resources.resources
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.csproj.GenerateResource.cache
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.csproj.CoreCompileInputs.cache
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\bin\Debug\MyGame_AzuaraFonseca.exe.config
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\bin\Debug\MyGame_AzuaraFonseca.exe
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\bin\Debug\MyGame_AzuaraFonseca.pdb
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.exe
+C:\Users\kebin\Desktop\MyGame_AzuaraFonseca\obj\Debug\MyGame_AzuaraFonseca.pdb
